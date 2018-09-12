@@ -5,7 +5,8 @@
     <meta charset="UTF-8" />
     <style>
         img {
-            max-width: 500px;
+            max-width: 50%;
+            border-radius: 50%;
         }
     </style>
 </head>
